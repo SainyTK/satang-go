@@ -1,11 +1,11 @@
-### go-satang
+### satang-go
 
 A Golang SDK for [satang](https://satangcorp.com/) API.
 
-[![Build Status](https://app.travis-ci.com/tanakorn0314/go-satang.svg?branch=main)](https://travis-ci.org/tanakorn0314/go-satang)
-<!-- [![GoDoc](https://godoc.org/github.com/tanakorn0314/go-satang?status.svg)](https://godoc.org/github.com/tanakorn0314/go-satang)
-[![Go Report Card](https://goreportcard.com/badge/github.com/tanakorn0314/go-satang)](https://goreportcard.com/report/github.com/tanakorn0314/go-satang)
-[![codecov](https://codecov.io/gh/tanakorn0314/go-satang/branch/master/graph/badge.svg)](https://codecov.io/gh/tanakorn0314/go-satang) -->
+[![Build Status](https://app.travis-ci.com/tanakorn0314/satang-go.svg?branch=main)](https://travis-ci.org/tanakorn0314/satang-go)
+<!-- [![GoDoc](https://godoc.org/github.com/tanakorn0314/satang-go?status.svg)](https://godoc.org/github.com/tanakorn0314/satang-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/tanakorn0314/satang-go)](https://goreportcard.com/report/github.com/tanakorn0314/satang-go)
+[![codecov](https://codecov.io/gh/tanakorn0314/satang-go/branch/master/graph/badge.svg)](https://codecov.io/gh/tanakorn0314/satang-go) -->
 
 All the REST APIs listed in [satang API document](https://docs.satangcorp.com/) are implemented, as well as the websocket APIs.
 
@@ -35,7 +35,7 @@ import (
 
 ### Documentation
 
-[![GoDoc](https://godoc.org/github.com/tanakorn0314/go-satang?status.svg)](https://godoc.org/github.com/tanakorn0314/go-satang)
+[![GoDoc](https://godoc.org/github.com/tanakorn0314/satang-go?status.svg)](https://godoc.org/github.com/tanakorn0314/satang-go)
 
 ### REST API
 
@@ -55,7 +55,7 @@ A service instance stands for a REST API endpoint and is initialized by client.N
 
 Simply call API in chain style. Call Do() in the end to send HTTP request.
 
-Following are some simple examples, please refer to [godoc](https://godoc.org/github.com/tanakorn0314/go-satang) for full references.
+Following are some simple examples, please refer to [godoc](https://godoc.org/github.com/tanakorn0314/satang-go) for full references.
 
 #### Create Order
 
