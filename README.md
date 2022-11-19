@@ -22,14 +22,14 @@ Name | Description | Status
 ### Installation
 
 ```shell
-go get github.com/tanakorn0314/go-satang/v1
+go get github.com/tanakorn0314/satang-go/v1
 ```
 
 ### Importing
 
 ```golang
 import (
-    "github.com/tanakorn0314/go-satang/v1"
+    "github.com/tanakorn0314/satang-go/v1"
 )
 ```
 
