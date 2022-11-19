@@ -1,4 +1,4 @@
-module github.com/tanakorn0314/satang-go/v1
+module github.com/tanakorn0314/satang-go/v2
 
 go 1.19
 
